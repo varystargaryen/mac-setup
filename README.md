@@ -93,6 +93,8 @@ Paste this into the macOS Terminal:
 - [Genymotion](https://www.genymotion.com/download/)
 - [Skype](https://www.skype.com/en/get-skype/)
 - [CalDigit Thunderbolt Dock Driver](http://www.caldigit.com/support.asp)
+- [JDownloader 2](http://jdownloader.org/jdownloader2)
+- [VLC Media Player](https://www.videolan.org/vlc/index.html)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
