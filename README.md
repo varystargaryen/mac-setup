@@ -99,6 +99,7 @@ Paste this into the macOS Terminal:
 - [VLC Media Player](https://www.videolan.org/vlc/index.html)
 - [Calibre](https://calibre-ebook.com/)
 - [Dolphin Emulator](https://dolphin-emu.org/)
+- [Authy](https://authy.com/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
