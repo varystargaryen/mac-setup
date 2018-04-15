@@ -42,7 +42,8 @@ Paste this into the macOS Terminal:
 
 ### Menubar Apps
 - [Dropbox](https://www.dropbox.com/?landing=dbv2)
-- [Google Backup and Sync](https://drive.google.com) 
+- [Google Backup and Sync](https://drive.google.com)
+- [Google Drive File Stream]{https://support.google.com/drive/answer/7329379?hl=en&authuser=7)
 - [OneDrive Standalone](https://support.office.com/en-us/article/New-OneDrive-sync-client-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0) (See the "separate download" link under the Downloads header)
 - [NordVPN](https://nordvpn.com)
 - [Spotify Notifications](https://spotify-notifications.citruspi.io)
@@ -96,6 +97,7 @@ Paste this into the macOS Terminal:
 - [CalDigit Thunderbolt Dock Driver](http://www.caldigit.com/support.asp)
 - [JDownloader 2](http://jdownloader.org/jdownloader2)
 - [VLC Media Player](https://www.videolan.org/vlc/index.html)
+- [Calibre](https://calibre-ebook.com/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
