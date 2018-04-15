@@ -114,9 +114,6 @@ Paste this into the macOS Terminal:
 
 
 ### Steam Games
-- [Team Fortress 2](http://www.teamfortress.com)
-- [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
-- [Planetary Annihliation](http://www.uberent.com/pa-classic/)
 - [Civilization V + DLC](http://www.civilization5.com)
 - [Rocket League](https://www.rocketleague.com)
 
