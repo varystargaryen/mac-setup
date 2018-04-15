@@ -1,11 +1,11 @@
 # mac-setup
 
-Hexalellogram's macOS Setup Scripts
+Hexalellogram's macOS Setup Scripts (Modified for use by VarysTargaryen)
 
 ## Download and Run:
 Paste this into the macOS Terminal:
 
-`curl -LOk https://github.com/hexalellogram/mac-setup/archive/master.zip && unzip -a master.zip && rm master.zip && cd mac-setup-master && chmod +x ProgramInstall.sh && ./ProgramInstall.sh`
+`curl -LOk https://github.com/varystargaryen/mac-setup/archive/master.zip && unzip -a master.zip && rm master.zip && cd mac-setup-master && chmod +x ProgramInstall.sh && ./ProgramInstall.sh`
 
 ## Prerequisites
 - [Xcode.app or Xcode-beta.app](https://developer.apple.com/download/) installed
