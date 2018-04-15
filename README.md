@@ -37,7 +37,7 @@ Paste this into the macOS Terminal:
 - [Spotify](http://spotify.com)
 - [Microsoft Office](https://www.office.com)
 - [VMware Fusion](https://www.vmware.com/products/fusion.html)
-- [YakYak](https://github.com/yakyak/yakyak) (Removed for now in favor of manually installed self-compiled version)
+- [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
 - [Caprine](https://github.com/sindresorhus/caprine)
 
 ### Menubar Apps
