@@ -39,6 +39,8 @@ Paste this into the macOS Terminal:
 - [VMware Fusion](https://www.vmware.com/products/fusion.html)
 - [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
 - [Caprine](https://github.com/sindresorhus/caprine)
+- [Plex Media Server](https://www.plex.tv/)
+- [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
 
 ### Menubar Apps
 - [Dropbox](https://www.dropbox.com/?landing=dbv2)
