@@ -102,6 +102,7 @@ Paste this into the macOS Terminal:
 - [Calibre](https://calibre-ebook.com/)
 - [Dolphin Emulator](https://dolphin-emu.org/)
 - [Authy](https://authy.com/)
+- [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
