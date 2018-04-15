@@ -62,6 +62,7 @@ Paste this into the macOS Terminal:
 - [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html)
 
 ### Code/Computer Science Apps
+- [GitHub Desktop](https://desktop.github.com/)
 - [GitKraken](https://www.gitkraken.com)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Java 6](https://support.apple.com/kb/DL1572) (Temporary fix for IntelliJ IDEA menu bar on High Sierra)
