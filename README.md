@@ -52,6 +52,7 @@ Paste this into the macOS Terminal:
 - [WhatPulse](https://whatpulse.org/)
 - [Synergy](http://symless.com/)
 - [Bartender](https://www.macbartender.com/)
+- [Spectacle](https://github.com/eczarny/spectacle)
 
 ### [Objective-See](https://objective-see.com/) Security Apps
 - [BlockBlock](https://objective-see.com/products/blockblock.html)
