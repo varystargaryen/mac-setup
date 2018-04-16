@@ -49,8 +49,6 @@ Paste this into the macOS Terminal:
 - [Spotify Notifications](https://spotify-notifications.citruspi.io)
 - [MenuMeters (Yujitach Port)](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)
 - [Brightness Menulet](https://github.com/superduper/BrightnessMenulet)
-- [RescueTime](https://www.rescuetime.com)
-- [Itsycal](https://www.mowglii.com/itsycal/)
 - [WhatPulse](https://whatpulse.org/)
 - [Synergy](http://symless.com/)
 - [Bartender](https://www.macbartender.com/)
