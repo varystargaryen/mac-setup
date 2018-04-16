@@ -101,6 +101,7 @@ Paste this into the macOS Terminal:
 - [Dolphin Emulator](https://dolphin-emu.org/)
 - [Authy](https://authy.com/)
 - [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
+- [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
