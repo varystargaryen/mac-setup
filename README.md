@@ -53,6 +53,7 @@ Paste this into the macOS Terminal:
 - [Synergy](http://symless.com/)
 - [Bartender](https://www.macbartender.com/)
 - [Spectacle](https://github.com/eczarny/spectacle)
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 
 ### [Objective-See](https://objective-see.com/) Security Apps
 - [BlockBlock](https://objective-see.com/products/blockblock.html)
