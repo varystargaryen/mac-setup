@@ -70,6 +70,7 @@ Paste this into the macOS Terminal:
 - [Eclipse Java IDE](http://www.eclipse.org)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [PowerShell](https://github.com/PowerShell/PowerShell)
+- [Typora](https://www.typora.io/)
 
 ### Other Apps/Utilities
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/)
