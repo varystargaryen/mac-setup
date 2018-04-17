@@ -103,6 +103,7 @@ Paste this into the macOS Terminal:
 - [Authy](https://authy.com/)
 - [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
 - [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
+- [Arq Backup](https://www.arqbackup.com/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
