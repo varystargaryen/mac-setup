@@ -139,6 +139,7 @@ Paste this into the macOS Terminal:
 - [Winclone](https://twocanoes.com/products/mac/winclone/)
 - [Synergy 1.0](https://symless.com/synergy)
 - [CalDigit Docking Station Utility](http://www.caldigit.com/support.asp)
+- [Filebot](https://www.filebot.net/)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
