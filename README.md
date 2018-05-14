@@ -140,6 +140,7 @@ Paste this into the macOS Terminal:
 - [Synergy 1.0](https://symless.com/synergy)
 - [CalDigit Docking Station Utility](http://www.caldigit.com/support.asp)
 - [Filebot](https://www.filebot.net/)
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
