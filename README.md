@@ -54,6 +54,7 @@ Paste this into the macOS Terminal:
 - [Bartender](https://www.macbartender.com/)
 - [Spectacle](https://github.com/eczarny/spectacle)
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 
 ### [Objective-See](https://objective-see.com/) Security Apps
 - [BlockBlock](https://objective-see.com/products/blockblock.html)
@@ -140,7 +141,6 @@ Paste this into the macOS Terminal:
 - [Synergy 1.0](https://symless.com/synergy)
 - [CalDigit Docking Station Utility](http://www.caldigit.com/support.asp)
 - [Filebot](https://www.filebot.net/)
-- [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
