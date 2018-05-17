@@ -99,6 +99,7 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/WhatPulse.app", hidden:false, name:"WhatPulse"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Brightness Menulet.app", hidden:false, name:"Brightness Menulet"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/RescueTime.app", hidden:false, name:"RescueTime"}'
++osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Apple Juice.app", hidden:false, name:"Apple Juice"}'
 echo "Startup Applications Set!"
 
 # Reset Launchpad to display Apple applications first in alphabetical order, then 3rd party applications on the following pages
