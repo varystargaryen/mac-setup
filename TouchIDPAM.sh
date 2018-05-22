@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Setting Up Touch ID PAM Module"
-git clone https://github.com/hamzasood/pam_touchid
+git clone https://github.com/BenKesselring/pam_touchid/
 cd pam_touchid
 xcodebuild -project pam_touchid.xcodeproj build
 cp build/Release/pam_touchid.so.2 $OLDPWD
