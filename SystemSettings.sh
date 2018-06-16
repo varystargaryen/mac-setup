@@ -173,9 +173,9 @@ defaults write org.m0k.transmission BlocklistURL -string "http://john.bitsurge.n
 defaults write org.m0k.transmission BlocklistAutoUpdate -bool true
 
 echo "Adding 3 spacers to the dock"
-defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
-defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
-defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
+defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="small-spacer-tile";}'
+defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="small-spacer-tile";}'
+defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="small-spacer-tile";}'
 
 echo "Remove Dock Show and Hide Delay"
 defaults write com.apple.Dock autohide-delay -float 0
@@ -192,9 +192,9 @@ sudo installer -pkg San\ Francisco\ Pro.pkg -target /
 cd .
 
 echo "Terminal Profile"
-open ProModified.terminal
-defaults write com.apple.Terminal "Default Window Settings" -string "ProModified"
-defaults write com.apple.Terminal "Startup Window Settings" -string "ProModified"
+open BasicModified.terminal
+defaults write com.apple.Terminal "Default Window Settings" -string "Basic Modified"
+defaults write com.apple.Terminal "Startup Window Settings" -string "Basic Modified"
 
 echo "Killing affected apps"
 for app in "Activity Monitor" \

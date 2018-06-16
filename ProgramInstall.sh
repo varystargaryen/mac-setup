@@ -68,7 +68,7 @@ brew prune
 brew cleanup
 
 # Install Touch ID PAM Module
-read -n 1 -p "Do you want to install the Touch ID PAM Module? (Y/n) (HIGHLY EXPERIMENTAL): " pamAnswer && echo
+read -n 1 -p "Do you want to install the Touch ID PAM Module? (Y/n) (HIGHLY EXPERIMENTAL, currently broken on Mojave): " pamAnswer && echo
 if echo $pamAnswer | grep -iq "^n"; then
     echo "You have chosen to bypass the installation of the Touch ID PAM Modue."
 else
