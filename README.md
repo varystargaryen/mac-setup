@@ -73,7 +73,6 @@ Paste this into the macOS Terminal:
 - [Typora](https://www.typora.io/)
 
 ### Other Apps/Utilities
-- [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - [Android File Transfer](https://www.android.com/filetransfer/?linkid=14270770)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [The Unarchiver](https://theunarchiver.com)
