@@ -105,6 +105,7 @@ Paste this into the macOS Terminal:
 - [Arq Backup](https://www.arqbackup.com/)
 - [VNote](https://github.com/tamlok/vnote)
 - [IINA](https://lhc70000.github.io/iina/)
+- [Filebot](https://www.filebot.net/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
@@ -138,7 +139,6 @@ Paste this into the macOS Terminal:
 - [Winclone](https://twocanoes.com/products/mac/winclone/)
 - [Synergy 1.0](https://symless.com/synergy)
 - [CalDigit Docking Station Utility](http://www.caldigit.com/support.asp)
-- [Filebot](https://www.filebot.net/)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
