@@ -107,6 +107,7 @@ Paste this into the macOS Terminal:
 - [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
 - [Arq Backup](https://www.arqbackup.com/)
 - [VNote](https://github.com/tamlok/vnote)
+- [IINA](https://lhc70000.github.io/iina/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
