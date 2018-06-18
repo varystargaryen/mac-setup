@@ -92,7 +92,6 @@ Paste this into the macOS Terminal:
 - [Opera](https://www.opera.com/computer)
 - [Etcher](https://etcher.io/)
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
-- [Epic Games Mac Client](https://www.epicgames.com/unrealtournament/download)
 - [Genymotion](https://www.genymotion.com/download/)
 - [Skype](https://www.skype.com/en/get-skype/)
 - [CalDigit Thunderbolt Dock Driver](http://www.caldigit.com/support.asp)
