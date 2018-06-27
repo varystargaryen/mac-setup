@@ -106,6 +106,7 @@ Paste this into the macOS Terminal:
 - [VNote](https://github.com/tamlok/vnote)
 - [IINA](https://lhc70000.github.io/iina/)
 - [Filebot](https://www.filebot.net/)
+- [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/)
 
 ### Finder Quick Look Generators
 - [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
