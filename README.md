@@ -138,6 +138,7 @@ Paste this into the macOS Terminal:
 ## Applications To Be Installed Manually
 - [Winclone](https://twocanoes.com/products/mac/winclone/)
 - [Synergy 1.0](https://symless.com/synergy)
+- [MinimalMessages](https://github.com/XtremeCookiez/MinimalMessages)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
