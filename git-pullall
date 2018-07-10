@@ -7,7 +7,7 @@ do
   then
     if [[ -d $folder ]] 
     then
-      git -C "$folder" pull origin master
+      git -C "$folder" pull
     else
       echo "Not a folder... Skipping"
     fi
