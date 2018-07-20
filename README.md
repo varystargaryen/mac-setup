@@ -128,7 +128,7 @@ Paste this into the macOS Terminal:
 
 
 ## Other Stuff Configured
-- [Touch ID PAM Module](https://github.com/BenKesselring/pam_touchid) (Currently disabled due to macOS Mojave incompatibility)
+- [Enable Touch ID PAM Module for Sudo in Terminal](https://derflounder.wordpress.com/2017/11/17/enabling-touch-id-authorization-for-sudo-on-macos-high-sierra/)
 - macOS System Settings ([Read echo statements here for details](https://github.com/hexalellogram/mac-setup/blob/master/SystemSettings.sh))
 - Create folder `~/Temp`
 - San Francisco [Pro Display](https://developer.apple.com/fonts/), [Pro Text](https://developer.apple.com/fonts/), and [Mono](https://simonfredsted.com/1438) Fonts Installed
