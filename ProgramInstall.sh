@@ -68,12 +68,13 @@ brew prune
 brew cleanup
 
 # Install Touch ID PAM Module
-read -n 1 -p "Do you want to install the Touch ID PAM Module? (Y/n) (HIGHLY EXPERIMENTAL, currently broken on Mojave): " pamAnswer && echo
+read -n 1 -p "Do you want to enable the Touch ID PAM module for Sudo in Terminal? (Y/n): " pamAnswer && echo
 if echo $pamAnswer | grep -iq "^n"; then
     echo "You have chosen to bypass the installation of the Touch ID PAM Modue."
 else
-    chmod +x TouchIDPAM.sh
-    ./TouchIDPAM.sh
+    sudo cp /etc/pam.d/sudo /etc/pam.d/sudo.bak
+    echo "Old /etc/pam.d/sudo backed up to /etc/pam.d/sudo.bak"
+    sudo cp sudo /etc/pam.d/sudo
 fi
 
 # Set Startup Applications

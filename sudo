@@ -1,5 +1,5 @@
 # sudo: auth account password session
-auth sufficient pam_touchid.so reason="execute a command as another user"
+auth       sufficient     pam_tid.so
 auth       sufficient     pam_smartcard.so
 auth       required       pam_opendirectory.so
 account    required       pam_permit.so
