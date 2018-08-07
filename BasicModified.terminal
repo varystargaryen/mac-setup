@@ -16,9 +16,13 @@
 	<key>FontWidthSpacing</key>
 	<real>1.004032258064516</real>
 	<key>ProfileCurrentVersion</key>
-	<real>2.0499999999999998</real>
+	<real>2.0600000000000001</real>
+	<key>columnCount</key>
+	<integer>141</integer>
 	<key>name</key>
 	<string>BasicModified</string>
+	<key>rowCount</key>
+	<integer>38</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
