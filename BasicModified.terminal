@@ -18,11 +18,11 @@
 	<key>ProfileCurrentVersion</key>
 	<real>2.0600000000000001</real>
 	<key>columnCount</key>
-	<integer>150</integer>
+	<integer>120</integer>
 	<key>name</key>
 	<string>BasicModified</string>
 	<key>rowCount</key>
-	<integer>45</integer>
+	<integer>36</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
