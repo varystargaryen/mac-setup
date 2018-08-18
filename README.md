@@ -76,8 +76,6 @@ Paste this into the macOS Terminal:
 - [MakeMKV](https://www.makemkv.com)
 - [Handbrake](https://handbrake.fr)
 - [MetaZ](https://griff.github.io/metaz/)
-- [NGROK](https://ngrok.com)
-- [Zoom.us](https://www.zoom.us/)
 - [IINA](https://lhc70000.github.io/iina/)
 - [Etcher](https://etcher.io/)
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
