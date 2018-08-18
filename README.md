@@ -73,18 +73,14 @@ Paste this into the macOS Terminal:
 - [Keka](http://www.kekaosx.com/en/)
 - [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)
 - [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools.html) (`adb`, `fastboot`, etc.)
-- [Transmission](https://transmissionbt.com)
 - [MakeMKV](https://www.makemkv.com)
 - [Handbrake](https://handbrake.fr)
 - [MetaZ](https://griff.github.io/metaz/)
 - [NGROK](https://ngrok.com)
-- [Firefox](https://www.mozilla.org/en-US/firefox/?utm_medium=referral&utm_source=firefox-com)
 - [Zoom.us](https://www.zoom.us/)
 - [IINA](https://lhc70000.github.io/iina/)
-- [Opera](https://www.opera.com/computer)
 - [Etcher](https://etcher.io/)
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
-- [Genymotion](https://www.genymotion.com/download/)
 - [Skype](https://www.skype.com/en/get-skype/)
 - [CalDigit Thunderbolt Dock Driver](http://www.caldigit.com/support.asp)
 - [JDownloader 2](http://jdownloader.org/jdownloader2)
@@ -96,7 +92,6 @@ Paste this into the macOS Terminal:
 - [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
 - [Arq Backup](https://www.arqbackup.com/)
 - [VNote](https://github.com/tamlok/vnote)
-- [IINA](https://lhc70000.github.io/iina/)
 - [Filebot](https://www.filebot.net/)
 - [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/)
 
@@ -113,11 +108,9 @@ Paste this into the macOS Terminal:
 - [Numbers](https://www.apple.com/numbers/)
 - [iMovie](https://www.apple.com/imovie/)
 
-
 ### Steam Games
 - [Civilization V + DLC](http://www.civilization5.com)
 - [Rocket League](https://www.rocketleague.com)
-
 
 ## Other Stuff Configured
 - [Enable Touch ID PAM Module for Sudo in Terminal](https://derflounder.wordpress.com/2017/11/17/enabling-touch-id-authorization-for-sudo-on-macos-high-sierra/)
