@@ -46,7 +46,6 @@ Paste this into the macOS Terminal:
 - [Google Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en&authuser=7)
 - [OneDrive](https://support.office.com/en-us/article/New-OneDrive-sync-client-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0) (See the "separate download" link under the Downloads header)
 - [Spotify Notifications](https://spotify-notifications.citruspi.io)
-- [Brightness Menulet](https://github.com/superduper/BrightnessMenulet)
 - [WhatPulse](https://whatpulse.org/)
 - [Synergy](http://symless.com/)
 - [Bartender](https://www.macbartender.com/)
