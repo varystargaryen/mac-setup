@@ -72,13 +72,11 @@ Paste this into the macOS Terminal:
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [Keka](http://www.kekaosx.com/en/)
 - [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)
-- [FUSE for macOS](https://osxfuse.github.io)
 - [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools.html) (`adb`, `fastboot`, etc.)
 - [Transmission](https://transmissionbt.com)
 - [MakeMKV](https://www.makemkv.com)
 - [Handbrake](https://handbrake.fr)
 - [MetaZ](https://griff.github.io/metaz/)
-- [Silverlight](https://www.microsoft.com/silverlight/)
 - [NGROK](https://ngrok.com)
 - [Firefox](https://www.mozilla.org/en-US/firefox/?utm_medium=referral&utm_source=firefox-com)
 - [Zoom.us](https://www.zoom.us/)
@@ -137,4 +135,4 @@ Paste this into the macOS Terminal:
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
-- This project is licensed under the [MIT License](https://github.com/hexalellogram/mac-setup/blob/master/LICENSE)
+- This project is licensed under the [MIT License](https://github.com/varystargaryen/mac-setup/blob/master/LICENSE)
