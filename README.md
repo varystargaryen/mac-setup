@@ -70,7 +70,6 @@ Paste this into the macOS Terminal:
 ### Other Apps/Utilities
 - [Android File Transfer](https://www.android.com/filetransfer/?linkid=14270770)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
-- [The Unarchiver](https://theunarchiver.com)
 - [Keka](http://www.kekaosx.com/en/)
 - [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)
 - [FUSE for macOS](https://osxfuse.github.io)
