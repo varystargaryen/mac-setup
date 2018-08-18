@@ -43,7 +43,6 @@ cask "google-drive-file-stream"
 cask "handbrake"
 cask "iina"
 cask "intellij-idea"
-cask "java6"
 cask "java8"
 cask "jdownloader"
 cask "karabiner-elements"
@@ -87,7 +86,6 @@ cask "yakyak"
 cask "font-noto-color-emoji"
 cask "zoomus"
 mas "Amphetamine", id: 937984704
-mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
