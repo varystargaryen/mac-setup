@@ -80,7 +80,6 @@ cask "whatpulse"
 cask "whatsyoursign"
 cask "yakyak"
 cask "font-noto-color-emoji"
-cask "zoomus"
 mas "Amphetamine", id: 937984704
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
