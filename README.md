@@ -27,7 +27,7 @@ Paste this into the macOS Terminal:
 ## GUI Applications Installed
 
 ### Core/Essentials
-- - [ ][Steam](http://store.steampowered.com/about/)
+- [ ][Steam](http://store.steampowered.com/about/)
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
