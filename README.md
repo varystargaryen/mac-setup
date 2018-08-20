@@ -27,18 +27,18 @@ Paste this into the macOS Terminal:
 ## GUI Applications Installed
 
 ### Core/Essentials
-- [Steam](http://store.steampowered.com/about/)
-- [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
-- [Carbon Copy Cloner](https://bombich.com)
-- [Spotify](http://spotify.com)
-- [Microsoft Office](https://www.office.com)
-- [VMware Fusion](https://www.vmware.com/products/fusion.html)
-- [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
-- [Caprine](https://github.com/sindresorhus/caprine)
-- [Plex Media Server](https://www.plex.tv/)
-- [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
+- [ ] [Steam](http://store.steampowered.com/about/)
+- [ ] [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
+- [ ] [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [ ] [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
+- [ ] [Carbon Copy Cloner](https://bombich.com)
+- [ ] [Spotify](http://spotify.com)
+- [ ] [Microsoft Office](https://www.office.com)
+- [ ] [VMware Fusion](https://www.vmware.com/products/fusion.html)
+- [ ] [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
+- [ ] [Caprine](https://github.com/sindresorhus/caprine)
+- [ ] [Plex Media Server](https://www.plex.tv/)
+- [ ] [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
 
 ### Menubar Apps
 - [Dropbox](https://www.dropbox.com/?landing=dbv2)
