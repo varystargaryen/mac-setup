@@ -122,6 +122,8 @@ Paste this into the macOS Terminal:
 - [ ] [Winclone](https://twocanoes.com/products/mac/winclone/)
 - [ ] [Synergy 1.0](https://symless.com/synergy)
 - [ ] [Android Messages for Desktop](https://github.com/kelyvin/Android-Messages-For-Desktop)
+- [ ] [eOS for Steam](https://github.com/tkashkin/eOSSteamSkin)
+- [ ] [Air for Steam](https://github.com/Outsetini/Air-for-Steam)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
