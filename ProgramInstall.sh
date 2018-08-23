@@ -47,6 +47,7 @@ cp karabiner.json ~/.config/karabiner/karabiner.json # copy Karabiner Elements s
 
 echo "Configuring BTT Window Management KB Shortcuts"
 cd BTTFiles
+mkdir ~/Library/Application\ Support/BetterTouchTool
 cp btt_data_store.v2 ~/Library/Application\ Support/BetterTouchTool/
 cp btt_data_store.v2-shm ~/Library/Application\ Support/BetterTouchTool/
 cp btt_data_store.v2-wal ~/Library/Application\ Support/BetterTouchTool/
