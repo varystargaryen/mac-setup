@@ -189,7 +189,7 @@ unzip -a SFPro.zip
 rm SFPro.zip
 cd SFPro
 sudo installer -pkg San\ Francisco\ Pro.pkg -target /
-cd .
+cd ..
 
 echo "Terminal Profile"
 open BasicModified.terminal
