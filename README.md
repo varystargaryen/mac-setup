@@ -27,30 +27,30 @@ Paste this into the macOS Terminal:
 ## GUI Applications Installed
 
 ### Core/Essentials
-- [ ] [Steam](http://store.steampowered.com/about/)
+- [x] [Steam](http://store.steampowered.com/about/)
 - [ ] [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
-- [ ] [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [ ] [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
+- [x] [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [x] [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
 - [ ] [Carbon Copy Cloner](https://bombich.com)
-- [ ] [Spotify](http://spotify.com)
-- [ ] [Microsoft Office](https://www.office.com)
+- [x] [Spotify](http://spotify.com)
+- [x] [Microsoft Office](https://www.office.com)
 - [ ] [VMware Fusion](https://www.vmware.com/products/fusion.html)
-- [ ] [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
-- [ ] [Caprine](https://github.com/sindresorhus/caprine)
+- [x] [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
+- [x] [Caprine](https://github.com/sindresorhus/caprine)
 - [ ] [Plex Media Server](https://www.plex.tv/)
-- [ ] [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
+- [x] [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
 
 ### Menubar Apps
-- [ ] [Dropbox](https://www.dropbox.com/?landing=dbv2)
+- [x] [Dropbox](https://www.dropbox.com/?landing=dbv2)
 - [ ] [Google Backup and Sync](https://drive.google.com)
 - [ ] [Google Drive File Stream](https://support.google.com/drive/answer/7329379?hl=en&authuser=7)
-- [ ] [OneDrive](https://support.office.com/en-us/article/New-OneDrive-sync-client-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0) (See the "separate download" link under the Downloads header)
-- [ ] [Spotify Notifications](https://spotify-notifications.citruspi.io)
-- [ ] [Synergy](http://symless.com/)
-- [ ] [Bartender](https://www.macbartender.com/)
-- [ ] [Spectacle](https://github.com/eczarny/spectacle)
-- [ ] [Background Music](https://github.com/kyleneideck/BackgroundMusic)
-- [ ] [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
+- [x] [OneDrive](https://support.office.com/en-us/article/New-OneDrive-sync-client-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0) (See the "separate download" link under the Downloads header)
+- [x] [Spotify Notifications](https://spotify-notifications.citruspi.io)
+- [x] [Synergy](http://symless.com/)
+- [x] [Bartender](https://www.macbartender.com/)
+- [x] [Spectacle](https://github.com/eczarny/spectacle)
+- [x] [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+- [x] [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 
 ### [Objective-See](https://objective-see.com/) Security Apps
 - [ ] [BlockBlock](https://objective-see.com/products/blockblock.html)
@@ -60,7 +60,7 @@ Paste this into the macOS Terminal:
 
 ### Code/Computer Science Apps
 - [ ] [GitKraken](https://www.gitkraken.com)
-- [ ] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [x] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [ ] [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [ ] [Eclipse Java IDE](http://www.eclipse.org)
 - [ ] [Visual Studio Code](https://code.visualstudio.com)
@@ -69,14 +69,14 @@ Paste this into the macOS Terminal:
 
 ### Other Apps/Utilities
 - [ ] [Android File Transfer](https://www.android.com/filetransfer/?linkid=14270770)
-- [ ] [AppCleaner](http://freemacsoft.net/appcleaner/)
-- [ ] [Keka](http://www.kekaosx.com/en/)
+- [x] [AppCleaner](http://freemacsoft.net/appcleaner/)
+- [x] [Keka](http://www.kekaosx.com/en/)
 - [ ] [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)
 - [ ] [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools.html) (`adb`, `fastboot`, etc.)
 - [ ] [MakeMKV](https://www.makemkv.com)
 - [ ] [Handbrake](https://handbrake.fr)
 - [ ] [MetaZ](https://griff.github.io/metaz/)
-- [ ] [IINA](https://lhc70000.github.io/iina/)
+- [x] [IINA](https://lhc70000.github.io/iina/)
 - [ ] [Etcher](https://etcher.io/)
 - [ ] [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 - [ ] [Skype](https://www.skype.com/en/get-skype/)
@@ -85,7 +85,7 @@ Paste this into the macOS Terminal:
 - [ ] [VLC Media Player](https://www.videolan.org/vlc/index.html)
 - [ ] [Calibre](https://calibre-ebook.com/)
 - [ ] [Dolphin Emulator](https://dolphin-emu.org/)
-- [ ] [Authy](https://authy.com/)
+- [x] [Authy](https://authy.com/)
 - [ ] [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
 - [ ] [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
 - [ ] [Arq Backup](https://www.arqbackup.com/)
@@ -100,14 +100,14 @@ Paste this into the macOS Terminal:
 - [ ] [QLStephen](https://github.com/whomwah/qlstephen)
 
 ### Mac App Store Apps
-- [ ] [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12)
-- [ ] [Pages](https://www.apple.com/pages/)
-- [ ] [Keynote](https://www.apple.com/keynote/)
-- [ ] [Numbers](https://www.apple.com/numbers/)
+- [x] [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12)
+- [x] [Pages](https://www.apple.com/pages/)
+- [x] [Keynote](https://www.apple.com/keynote/)
+- [x] [Numbers](https://www.apple.com/numbers/)
 
 ### Steam Games
 - [ ] [Civilization V + DLC](http://www.civilization5.com)
-- [ ] [Rocket League](https://www.rocketleague.com)
+- [x] [Rocket League](https://www.rocketleague.com)
 
 ## Other Stuff Configured
 - [ ] [Enable Touch ID PAM Module for Sudo in Terminal](https://derflounder.wordpress.com/2017/11/17/enabling-touch-id-authorization-for-sudo-on-macos-high-sierra/)
@@ -120,10 +120,10 @@ Paste this into the macOS Terminal:
 
 ## Applications To Be Installed Manually
 - [ ] [Winclone](https://twocanoes.com/products/mac/winclone/)
-- [ ] [Synergy 1.0](https://symless.com/synergy)
-- [ ] [Android Messages for Desktop](https://github.com/kelyvin/Android-Messages-For-Desktop)
-- [ ] [eOS for Steam](https://github.com/tkashkin/eOSSteamSkin)
-- [ ] [Air for Steam](https://github.com/Outsetini/Air-for-Steam)
+- [x] [Android Messages for Desktop](https://github.com/kelyvin/Android-Messages-For-Desktop)
+- [x] [eOS for Steam](https://github.com/tkashkin/eOSSteamSkin)
+- [x] [Air for Steam](https://github.com/Outsetini/Air-for-Steam)
+- [ ] [HighSierraMediaKeyEnabler](https://github.com/milgra/highsierramediakeyenabler)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
