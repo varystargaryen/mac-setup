@@ -88,7 +88,7 @@ Paste this into the macOS Terminal:
 - [x] [Dolphin Emulator](https://dolphin-emu.org/)
 - [x] [Authy](https://authy.com/)
 - [ ] [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
-- [ ] [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
+- [x] [Simple Comic](https://github.com/arauchfuss/Simple-Comic)
 - [ ] [Arq Backup](https://www.arqbackup.com/)
 - [x] [VNote](https://github.com/tamlok/vnote)
 - [x] [Filebot](https://www.filebot.net/)
