@@ -114,7 +114,7 @@ Paste this into the macOS Terminal:
 - [x] [Enable Touch ID PAM Module for Sudo in Terminal](https://derflounder.wordpress.com/2017/11/17/enabling-touch-id-authorization-for-sudo-on-macos-high-sierra/)
 - [x] macOS System Settings ([Read echo statements here for details](https://github.com/hexalellogram/mac-setup/blob/master/SystemSettings.sh))
 - [x] Create folder `~/Temp`
-- [ ] San Francisco [Pro Display](https://developer.apple.com/fonts/), [Pro Text](https://developer.apple.com/fonts/), and [Mono](https://simonfredsted.com/1438) Fonts Installed
+- [x] San Francisco [Pro Display](https://developer.apple.com/fonts/), [Pro Text](https://developer.apple.com/fonts/), and [Mono](https://simonfredsted.com/1438) Fonts Installed
 - [x] Terminal configured to my custom settings (see [BasicModified.terminal](https://github.com/hexalellogram/mac-setup/blob/master/BasicModified.terminal)) - Pro Modified is essentially the standard Pro theme in macOS terminal, modified to use the San Francisco Mono font and a font size of 14.
 - [x] Startup applications configured as per my preferences
 - [ ] `git pullall` - pulls all Git repositories in the folder `~/Git` except if the folder is named `EZMoney-Releases`. Program is copied to the directory `/usr/local/bin` so the command `git pullall` can be run from any location.
