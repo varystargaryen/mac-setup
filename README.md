@@ -62,7 +62,7 @@ Paste this into the macOS Terminal:
 ### Code/Computer Science Apps
 - [x] [GitKraken](https://www.gitkraken.com)
 - [x] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [x] [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [ ] [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [x] [Eclipse Java IDE](http://www.eclipse.org)
 - [x] [Visual Studio Code](https://code.visualstudio.com)
 - [ ] [PowerShell](https://github.com/PowerShell/PowerShell)
