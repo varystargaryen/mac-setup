@@ -83,7 +83,6 @@ echo "Setting Startup Applications"
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Reminders.app", hidden:false, name:"Reminders"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Mail.app", hidden:false, name:"Mail"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Messages.app", hidden:false, name:"Messages"}'
-osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/iTunes.app", hidden:false, name:"iTunes"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/BetterTouchTool.app", hidden:false, name:"BetterTouchTool"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/NordVPN.app", hidden:false, name:"NordVPN"}'
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/OverSight.app/Contents/Library/LoginItems/OverSight Helper.app", hidden:false, name:"OverSight Helper"}'
