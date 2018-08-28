@@ -93,6 +93,7 @@ Paste this into the macOS Terminal:
 - [x] [VNote](https://github.com/tamlok/vnote)
 - [x] [Filebot](https://www.filebot.net/)
 - [ ] [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/)
+- [ ] [OpenEmu](http://openemu.org/)
 
 ### Finder Quick Look Generators
 - [x] [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
