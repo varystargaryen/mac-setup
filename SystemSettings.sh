@@ -67,11 +67,13 @@ echo "Set ~/Temp as the default location for new Finder windows"
 defaults write com.apple.finder NewWindowTarget -string "PfLo"
 defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/Temp/"
 
-echo "Don't show icons for hard drives, servers, and removable media on the desktop"
-defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false
+echo "Show icons for servers and removable media on the desktop"
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
+defaults write com.apple.finder ShowMountedServersOnDesktop -bool true
+defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
+
+echo "Don't show internal hard drives on the desktop"
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false
-defaults write com.apple.finder ShowMountedServersOnDesktop -bool false
-defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool false
 
 echo "Finder: show all filename extensions"
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
@@ -191,9 +193,38 @@ open BasicModified.terminal
 defaults write com.apple.Terminal "Default Window Settings" -string "Basic Modified"
 defaults write com.apple.Terminal "Startup Window Settings" -string "Basic Modified"
 
+echo "Show Debug Menu in App Store"
+defaults write com.apple.appstore ShowDebugMenu -bool true
+
+echo "Show Debug Menu in Contacts"
+defaults write com.apple.addressbook ABShowDebugMenu -bool true
+
+echo "Enable Develop Menu & Web Inspector in Safari"
+defaults write com.apple.Safari IncludeInternalDebugMenu -bool true && \
+defaults write com.apple.Safari IncludeDevelopMenu -bool true && \
+defaults write com.apple.Safari WebKitDeveloperExtrasEnabledPreferenceKey -bool true && \
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled -bool true && \
+defaults write -g WebKitDeveloperExtras -bool true
+
+echo "Use Backspace/Delete to Return to the Previous Page in Safari"
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool YES
+
+echo "Enable 'Focus Follows Mouse' in Terminal"
+defaults write com.apple.Terminal FocusFollowsMouse -string YES
+
+echo "Fix VSCodeVim Key Repeat in Microsoft Visual Studio Code"
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+
+echo "Disabling Creation of Metadata Files on Network Volumes"
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+
+echo "Disabling Creation of Metadata Files on USB Volumes"
+defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
+
 echo "Killing affected apps"
 for app in "Activity Monitor" \
 	"Address Book" \
+	"App Store" \
 	"Calendar" \
 	"cfprefsd" \
 	"Contacts" \
@@ -206,6 +237,7 @@ for app in "Activity Monitor" \
 	"Safari" \
 	"SystemUIServer" \
 	"Transmission" \
+	"Visual Studio Code" \
 	"iCal"; do
 	killall "${app}" &> /dev/null
 done
