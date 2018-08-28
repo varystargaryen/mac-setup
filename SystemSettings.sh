@@ -207,10 +207,11 @@ defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebK
 defaults write -g WebKitDeveloperExtras -bool true
 
 echo "Use Backspace/Delete to Return to the Previous Page in Safari"
-defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool YES
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool true
 
-echo "Enable 'Focus Follows Mouse' in Terminal"
-defaults write com.apple.Terminal FocusFollowsMouse -string YES
+echo "Enable 'Focus Follows Mouse' in Terminal & All X11 Apps"
+defaults write com.apple.Terminal FocusFollowsMouse -bool true
+defaults write org.x.X11 wm_ffm -bool true
 
 echo "Fix VSCodeVim Key Repeat in Microsoft Visual Studio Code"
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
@@ -220,6 +221,105 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
 
 echo "Disabling Creation of Metadata Files on USB Volumes"
 defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
+
+echo "Enable Full Keyboard Access for All Controls (Enable Tab in Modal Dialogs)"
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+
+echo "Enable Snap-to-Grid for Icons"
+/usr/libexec/PlistBuddy -c "Set :DesktopViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+/usr/libexec/PlistBuddy -c "Set :FK_StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+/usr/libexec/PlistBuddy -c "Set :StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+
+echo "Disable Safari's Thumbnail Cache for History & Top Sites"
+defaults write com.apple.Safari DebugSnapshotsUpdatePolicy -int 2
+
+echo "Make Safari’s search banners default to Contains instead of Starts With"
+defaults write com.apple.Safari FindOnPageMatchesWordStartsOnly -bool false
+
+echo "Add a Context Menu Item Show Web Inspector in Web Views"
+defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
+
+echo "Enable Continuous Spellchecking"
+defaults write com.apple.Safari WebContinuousSpellCheckingEnabled -bool true
+
+echo "Enable Auto-Correction"
+defaults write com.apple.Safari WebAutomaticSpellingCorrectionEnabled -bool false
+
+echo "Warn About Fraudulent Websites"
+defaults write com.apple.Safari WarnAboutFraudulentWebsites -bool true
+
+echo "Block Pop-Up Windows"
+defaults write com.apple.Safari WebKitJavaScriptCanOpenWindowsAutomatically -bool false
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically -bool false
+
+echo "Disable Auto-Playing Videos"
+defaults write com.apple.Safari WebKitMediaPlaybackAllowsInline -bool false
+defaults write com.apple.SafariTechnologyPreview WebKitMediaPlaybackAllowsInline -bool false
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2AllowsInlineMediaPlayback -bool false
+defaults write com.apple.SafariTechnologyPreview com.apple.Safari.ContentPageGroupIdentifier.WebKit2AllowsInlineMediaPlayback -bool false
+
+echo "Enable Do Not Track"
+defaults write com.apple.Safari SendDoNotTrackHTTPHeader -bool true
+
+echo "Enable Auto-Updating of Safari Extensions"
+defaults write com.apple.Safari InstallExtensionUpdatesAutomatically -bool true
+
+echo "Display E-mails in Threaded Mode, Sorted Descending by Date Received"
+defaults write com.apple.mail DraftsViewerAttributes -dict-add "DisplayInThreadedMode" -string "yes"
+defaults write com.apple.mail DraftsViewerAttributes -dict-add "SortedDescending" -string "yes"
+defaults write com.apple.mail DraftsViewerAttributes -dict-add "SortOrder" -string "received-date"
+
+echo "Enable Spell-Checking in Mail"
+defaults write com.apple.mail SpellCheckingBehavior -string "SpellCheckingEnabled"
+
+echo "Disable Automatic Line Marking in Terminal"
+defaults write com.apple.Terminal ShowLineMarks -int 0
+
+echo "Prevent Time Machine from Automatically Prompting to Use New External Hard Drives as a Backup Volume"
+defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
+
+echo "Show the main window when launching Activity Monitor"
+defaults write com.apple.ActivityMonitor OpenMainWindow -bool true
+
+echo "Visualize CPU usage in the Activity Monitor Dock icon"
+defaults write com.apple.ActivityMonitor IconType -int 5
+
+echo "Show all processes in Activity Monitor"
+defaults write com.apple.ActivityMonitor ShowCategory -int 0
+
+echo "Sort Activity Monitor results by CPU usage"
+defaults write com.apple.ActivityMonitor SortColumn -string "CPUUsage"
+defaults write com.apple.ActivityMonitor SortDirection -int 0
+
+echo "Enable the Debug Menu in Disk Utility"
+defaults write com.apple.DiskUtility DUDebugMenuEnabled -bool true
+defaults write com.apple.DiskUtility advanced-image-options -bool true
+
+echo "Enable the WebKit Developer Tools in the Mac App Store"
+defaults write com.apple.appstore WebKitDeveloperExtras -bool true
+
+echo "Enable Debug Menu in the Mac App Store"
+defaults write com.apple.appstore ShowDebugMenu -bool true
+
+echo "Enable the automatic update check"
+defaults write com.apple.SoftwareUpdate AutomaticCheckEnabled -bool true
+
+echo "Download newly available updates in background"
+defaults write com.apple.SoftwareUpdate AutomaticDownload -int 1
+
+echo "Turn on app auto-update"
+defaults write com.apple.commerce AutoUpdate -bool true
+
+echo "Prevent Photos from opening automatically when devices are plugged in"
+defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
+
+echo "Use the system-native print preview dialog"
+defaults write com.google.Chrome DisablePrintPreview -bool true
+defaults write com.google.Chrome.canary DisablePrintPreview -bool true
+
+echo "Expand the print dialog by default"
+defaults write com.google.Chrome PMPrintingExpandedStateForPrint2 -bool true
+defaults write com.google.Chrome.canary PMPrintingExpandedStateForPrint2 -bool true
 
 echo "Killing affected apps"
 for app in "Activity Monitor" \
