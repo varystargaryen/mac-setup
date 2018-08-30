@@ -64,8 +64,6 @@ HIST_STAMPS="mm/dd/yyyy"
 plugins=(
   brew
   colored-man-pages
-  copydir
-  copyfile
   encode64
   git
   git-extras
@@ -111,3 +109,4 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias copydir="pwd | pbcopy"
