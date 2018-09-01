@@ -62,17 +62,15 @@ Paste this into the macOS Terminal:
 ### Code/Computer Science Apps
 - [x] [GitKraken](https://www.gitkraken.com)
 - [x] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [ ] [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [x] [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [x] [Eclipse Java IDE](http://www.eclipse.org)
 - [x] [Visual Studio Code](https://code.visualstudio.com)
 - [ ] [PowerShell](https://github.com/PowerShell/PowerShell)
-- [x] [Typora](https://www.typora.io/)
 
 ### Other Apps/Utilities
 - [x] [Android File Transfer](https://www.android.com/filetransfer/?linkid=14270770)
 - [x] [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [x] [Keka](http://www.kekaosx.com/en/)
-- [ ] [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)
 - [x] [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools.html) (`adb`, `fastboot`, etc.)
 - [ ] [MakeMKV](https://www.makemkv.com)
 - [ ] [Handbrake](https://handbrake.fr)
@@ -81,9 +79,6 @@ Paste this into the macOS Terminal:
 - [x] [Etcher](https://etcher.io/)
 - [ ] [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 - [ ] [Skype](https://www.skype.com/en/get-skype/)
-- [ ] [CalDigit Thunderbolt Dock Driver](http://www.caldigit.com/support.asp)
-- [x] [JDownloader 2](http://jdownloader.org/jdownloader2)
-- [ ] [VLC Media Player](https://www.videolan.org/vlc/index.html)
 - [ ] [Calibre](https://calibre-ebook.com/)
 - [x] [Dolphin Emulator](https://dolphin-emu.org/)
 - [x] [Authy](https://authy.com/)
@@ -118,7 +113,6 @@ Paste this into the macOS Terminal:
 - [x] San Francisco [Pro Display](https://developer.apple.com/fonts/), [Pro Text](https://developer.apple.com/fonts/), and [Mono](https://simonfredsted.com/1438) Fonts Installed
 - [x] Terminal configured to my custom settings (see [BasicModified.terminal](https://github.com/hexalellogram/mac-setup/blob/master/BasicModified.terminal)) - Pro Modified is essentially the standard Pro theme in macOS terminal, modified to use the San Francisco Mono font and a font size of 14.
 - [x] Startup applications configured as per my preferences
-- [ ] `git pullall` - pulls all Git repositories in the folder `~/Git` except if the folder is named `EZMoney-Releases`. Program is copied to the directory `/usr/local/bin` so the command `git pullall` can be run from any location.
 
 ## Applications To Be Installed Manually
 - [ ] [Winclone](https://twocanoes.com/products/mac/winclone/)
@@ -126,6 +120,7 @@ Paste this into the macOS Terminal:
 - [x] [eOS for Steam](https://github.com/tkashkin/eOSSteamSkin)
 - [x] [Air for Steam](https://github.com/Outsetini/Air-for-Steam)
 - [x] [HighSierraMediaKeyEnabler](https://github.com/milgra/highsierramediakeyenabler)
+- [x] [Paragon NTFS](https://www.paragon-software.com/ntfs-for-mac-mojave-preview/)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
