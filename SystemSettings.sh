@@ -189,9 +189,9 @@ sudo installer -pkg San\ Francisco\ Pro.pkg -target /
 cd ..
 
 echo "Terminal Profile"
-open BasicModified.terminal
-defaults write com.apple.Terminal "Default Window Settings" -string "Basic Modified"
-defaults write com.apple.Terminal "Startup Window Settings" -string "Basic Modified"
+open Pro Modified.terminal
+defaults write com.apple.Terminal "Default Window Settings" -string "Pro Modified"
+defaults write com.apple.Terminal "Startup Window Settings" -string "Pro Modified"
 
 echo "Show Debug Menu in App Store"
 defaults write com.apple.appstore ShowDebugMenu -bool true
