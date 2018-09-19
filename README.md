@@ -125,13 +125,13 @@ Paste this into the macOS Terminal:
 - [x] [MATLAB](https://www.mathworks.com/downloads/web_downloads/select_release)
 ### Shortcut Applications
 #### Boing
-- [x] Run Boing.app
-- [x] Update Boing.app
+- [x] [Run Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Run%20Boing.app)
+- [x] [Update Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Update%20Boing.app)
 #### Miscellaneous
-- [x] Social Media.app
-- [x] Homebrew Updater.app
-- [x] Open Filebot.jar
-- [x] Half-Life 2.app
+- [x] [Social Media](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Social%20Media.app)
+- [x] [Homebrew Updater](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Homebrew%20Updater.app)
+- [x] [Filebot](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/FileBot.app)
+- [x] [Half-Life 2](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Half-Life%202.app)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
