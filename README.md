@@ -101,9 +101,10 @@ Paste this into the macOS Terminal:
 - [x] [Pages](https://www.apple.com/pages/)
 - [x] [Keynote](https://www.apple.com/keynote/)
 - [x] [Numbers](https://www.apple.com/numbers/)
+- [x] [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 ### Steam Games
-- [ ] [Civilization V + DLC](http://www.civilization5.com)
+- [x] [Civilization V + DLC](http://www.civilization5.com)
 - [x] [Rocket League](https://www.rocketleague.com)
 
 ## Other Stuff Configured
@@ -121,6 +122,16 @@ Paste this into the macOS Terminal:
 - [x] [Air for Steam](https://github.com/Outsetini/Air-for-Steam)
 - [x] [HighSierraMediaKeyEnabler](https://github.com/milgra/highsierramediakeyenabler)
 - [x] [Paragon NTFS](https://www.paragon-software.com/ntfs-for-mac-mojave-preview/)
+- [x] [MATLAB](https://www.mathworks.com/downloads/web_downloads/select_release)
+### Shortcut Applications
+#### Boing
+- [x] Run Boing.app
+- [x] Update Boing.app
+#### Miscellaneous
+- [x] Social Media.app
+- [x] Homebrew Updater.app
+- [x] Open Filebot.jar
+- [x] Half-Life 2.app
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
