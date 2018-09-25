@@ -123,6 +123,7 @@ Paste this into the macOS Terminal:
 - [x] [HighSierraMediaKeyEnabler](https://github.com/milgra/highsierramediakeyenabler)
 - [x] [Paragon NTFS](https://www.paragon-software.com/ntfs-for-mac-mojave-preview/)
 - [x] [MATLAB](https://www.mathworks.com/downloads/web_downloads/select_release)
+- [x] [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 ### Shortcut Applications
 #### Boing
 - [x] [Run Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Run%20Boing.app)
@@ -132,6 +133,7 @@ Paste this into the macOS Terminal:
 - [x] [Homebrew Updater](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Homebrew%20Updater.app)
 - [x] [Filebot](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/FileBot.app)
 - [x] [Half-Life 2](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Half-Life%202.app)
+- [x] [ArchiSteamFarm](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/ArchiSteamFarm.app)
 
 ## Other Stuff You Might Need to Know
 - [Code of Conduct](https://github.com/hexalellogram/mac-setup/blob/master/CODE_OF_CONDUCT.md)
