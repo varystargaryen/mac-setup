@@ -59,7 +59,7 @@
 					<key>displayWarning</key>
 					<false/>
 					<key>explanationText</key>
-					<string>This will update Homebrew for macOS. It will do so by running "brew update", "brew upgrade", "brew cask upgrade", and "brew cleanup."
+					<string>This will update Homebrew for macOS. It will do so by running "brew update", "brew upgrade", "brew cask upgrade", "brew cu -a", and "brew cleanup."
 
 Are you sure you wish to continue?</string>
 					<key>negativeTitle</key>
@@ -282,7 +282,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>B6698B64-BC14-4B1A-9A76-EA5E95B69989</key>
+		<key>D655B483-4D6F-40B4-958A-5731F87509D0</key>
 		<dict>
 			<key>from</key>
 			<string>8BCB5FF0-24A0-4DD1-9C19-2528FA2BCBB8 - 8BCB5FF0-24A0-4DD1-9C19-2528FA2BCBB8</string>
