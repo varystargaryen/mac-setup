@@ -28,7 +28,7 @@ Paste this into the macOS Terminal:
 
 ### Core/Essentials
 - [x] [Steam](http://store.steampowered.com/about/)
-- [ ] [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
+- [x] [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 - [x] [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [x] [BetterTouchTool](https://www.boastr.net) ([Custom Settings](https://github.com/hexalellogram/mac-setup/wiki/BTT-Shortcuts) automatically imported)
 - [ ] [Carbon Copy Cloner](https://bombich.com)
@@ -37,7 +37,7 @@ Paste this into the macOS Terminal:
 - [ ] [VMware Fusion](https://www.vmware.com/products/fusion.html)
 - [x] [YakYak](https://github.com/yakyak/yakyak) ~~(Removed for now in favor of manually installed self-compiled version)~~
 - [x] [Caprine](https://github.com/sindresorhus/caprine)
-- [ ] [Plex Media Server](https://www.plex.tv/)
+- [x] [Plex Media Server](https://www.plex.tv/)
 - [x] [Plex Media Player](https://www.plex.tv/apps/computer/plex-media-player/)
 
 ### Menubar Apps
