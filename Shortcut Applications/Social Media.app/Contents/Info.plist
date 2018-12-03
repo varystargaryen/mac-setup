@@ -34,11 +34,11 @@
 	<key>CFBundleIconFile</key>
 	<string>AutomatorApplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.Open Social Networks</string>
+	<string>com.apple.automator.Social Media</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Open Social Networks</string>
+	<string>Social Media</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -52,7 +52,7 @@
 	<key>CFBundleURLTypes</key>
 	<array/>
 	<key>CFBundleVersion</key>
-	<string>444.38</string>
+	<string>444.39</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -62,7 +62,7 @@
 	<key>DTPlatformVersion</key>
 	<string>10.14</string>
 	<key>DTSDKBuild</key>
-	<string>18A371</string>
+	<string>18C12</string>
 	<key>DTSDKName</key>
 	<string>macosx10.14internal</string>
 	<key>DTXcode</key>
