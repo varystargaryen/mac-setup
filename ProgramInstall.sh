@@ -108,6 +108,7 @@ defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
 # Git pullall
 cp git-pullall /usr/local/bin/git-pullall
+chmod +x /usr/local/bin/git-pullall
 
 # Finishing dialogs
 echo "Installation of all programs complete!"
