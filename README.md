@@ -124,7 +124,6 @@ Paste this into the macOS Terminal:
 - [x] [Paragon NTFS](https://www.paragon-software.com/ntfs-for-mac-mojave-preview/)
 - [x] [MATLAB](https://www.mathworks.com/downloads/web_downloads/select_release)
 - [x] [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
-- [x] [Pock](http://pock.pigigaldi.com/)
 ### Shortcut Applications
 #### Boing
 - [x] [Run Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Run%20Boing.app)
