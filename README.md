@@ -89,6 +89,7 @@ Paste this into the macOS Terminal:
 - [x] [Filebot](https://www.filebot.net/)
 - [ ] [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/)
 - [ ] [OpenEmu](http://openemu.org/)
+- [x] [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong)
 
 ### Finder Quick Look Generators
 - [x] [BetterZipQL](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
@@ -128,6 +129,12 @@ Paste this into the macOS Terminal:
 #### Boing
 - [x] [Run Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Run%20Boing.app)
 - [x] [Update Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Update%20Boing.app)
+#### Touch Bar
+- [x] [Run Mario Run](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Run%20Mario%20Run.app/Contents)
+- [x] [PacBar](https://github.com/henryefranks/Pac-Bar)
+- [x] [Touch Bar Dino](https://github.com/yuhuili/TouchBarDino)
+- [x] [TouchBreakout](https://github.com/songkuixi/TouchBreakout)
+
 #### Miscellaneous
 - [x] [Social Media](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Social%20Media.app)
 - [x] [Homebrew Updater](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Homebrew%20Updater.app)
