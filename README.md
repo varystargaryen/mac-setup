@@ -130,8 +130,6 @@ Paste this into the macOS Terminal:
 - [x] [Run Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Run%20Boing.app)
 - [x] [Update Boing](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Boing/Update%20Boing.app)
 #### Touch Bar
-- [x] [Run Mario Run](https://github.com/varystargaryen/mac-setup/tree/master/Shortcut%20Applications/Touch%20Bar/Run%20Mario%20Run.app/Contents)
-- [x] [PacBar](https://github.com/henryefranks/Pac-Bar)
 - [x] [Touch Bar Dino](https://github.com/yuhuili/TouchBarDino)
 - [x] [TouchBreakout](https://github.com/songkuixi/TouchBreakout)
 
