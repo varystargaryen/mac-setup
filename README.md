@@ -50,7 +50,7 @@ Paste this into the macOS Terminal:
 - [x] [Bartender](https://www.macbartender.com/)
 - [x] [Spectacle](https://github.com/eczarny/spectacle)
 - [x] [Background Music](https://github.com/kyleneideck/BackgroundMusic)
-- [x] [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
+- [x] [coconutBattery](https://coconut-flavour.com/coconutbattery/)
 
 ### [Objective-See](https://objective-see.com/) Security Apps
 - [x] [BlockBlock](https://objective-see.com/products/blockblock.html)
