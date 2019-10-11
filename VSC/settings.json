@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "debug.allowBreakpointsEverywhere": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "editor.insertSpaces": false,
+    "editor.fontFamily": "SF Mono, Regular",
+    
+}
