@@ -66,6 +66,7 @@ Paste this into the macOS Terminal:
 - [x] [Eclipse Java IDE](http://www.eclipse.org)
 - [x] [Visual Studio Code](https://code.visualstudio.com)
 - [ ] [PowerShell](https://github.com/PowerShell/PowerShell)
+- [x] [VSC Settings Sync](https://gist.github.com/varystargaryen/9c4c9ef7e6915994b1877110a6c8407e)
 
 ### Other Apps/Utilities
 - [x] [Android File Transfer](https://www.android.com/filetransfer/?linkid=14270770)
