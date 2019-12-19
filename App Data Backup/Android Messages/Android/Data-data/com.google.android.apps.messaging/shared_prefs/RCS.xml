@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="IEEE-802.11;i-wlan-node-id=000000000000.period.Timestamp" value="1574978068384" />
+    <long name="rmnet_data0.period.Timestamp" value="1574273444624" />
+    <int name="IEEE-802.11;i-wlan-node-id=000000000000.period.Value" value="120" />
+    <int name="rmnet_data0.period.Value" value="300" />
+</map>

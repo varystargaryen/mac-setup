@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="provisioning_engine_bugle_enabled_rcs_for_multi_sim" value="true" />
+    <boolean name="provisioning_engine_google_tos_consent_key" value="true" />
+    <boolean name="provisioning_engine_carrier_consent_key" value="true" />
+    <boolean name="provisioning_engine_bugle_is_default_sms_app_key" value="true" />
+    <boolean name="provisioning_engine_bugle_enabled_rcs_from_preference_key" value="true" />
+    <boolean name="provisioning_engine_bugle_has_permission_key" value="true" />
+    <boolean name="provisioning_engine_migration_complete_key" value="true" />
+    <long name="provisioning_engine_bugle_supported_min_cs_apk_key" value="0" />
+    <long name="provisioning_engine_bugle_version_key" value="53076148" />
+</map>

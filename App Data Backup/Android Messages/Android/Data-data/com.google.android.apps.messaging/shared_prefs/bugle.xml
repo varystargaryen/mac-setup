@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="usage_stats_hash_salt">a052af1e-92a8-4129-afd8-42b9cf64e79c</string>
+    <boolean name="has_sent_a_message" value="true" />
+    <boolean name="link_preview_enabled" value="true" />
+    <boolean name="should_show_google_tos_prompt" value="false" />
+    <long name="spam_popup_seen_timestamp" value="1574387245901" />
+    <boolean name="suggested_stickers_enabled" value="true" />
+    <string name="firebase_instance_id">cktz5pBtvpw:APA91bGXPUsXA1vFiNNAvxRt256cppzNHv1Kpz8BaUnpeFmagFda34wspLsFkhk4zNVHQ5baJtzTHCrJOhf932hSuBxKfbQNol9Ar0xlEymzeIJLG2yZ5pgnoezqV1s1rDIVdVH9Dl5F</string>
+    <string name="LAST_UPSELL_PROMPT_TIME">2019 11 17 11:36:27.464</string>
+    <boolean name="dump_sms" value="false" />
+    <long name="last_rbm_interactive_event_time_millis" value="1570957361796" />
+    <boolean name="first_smart_action" value="false" />
+    <int name="PROMPT_COUNT" value="1" />
+    <int name="rcs_tos_state" value="2" />
+    <boolean name="dump_mms" value="false" />
+    <boolean name="save_original_media_toast_msg_showed" value="true" />
+    <long name="last_sync_time_millis" value="1563927500528" />
+    <long name="link_preview_tombstone_first_shown_millis" value="1560750814599" />
+    <int name="first_provisioning_ui_event_ui_type" value="2" />
+    <long name="tachyon_registration_expiration" value="1576481959220" />
+    <boolean name="is_at_least_o" value="true" />
+    <boolean name="spam_popup_dismissed" value="true" />
+    <boolean name="first_web_message" value="false" />
+    <int name="shared_preferences_version" value="2" />
+    <boolean name="is_eligible_for_wallet" value="true" />
+    <string name="rcs_msisdn">+17144993505</string>
+    <long name="first_time_rcs_provisioned_millis" value="1572117414480" />
+    <boolean name="rich_cards_settings_enable_all" value="true" />
+    <string name="notifications_group_children"></string>
+    <boolean name="did_show_google_tos_prompt" value="true" />
+    <string name="last_block_status_refresh_participant_id">-1</string>
+    <long name="p2p_conversation_training_popup_seen_timestamp" value="1571881820183" />
+    <boolean name="is_eligible_for_maestro" value="false" />
+    <boolean name="share_typing_status_rcs" value="true" />
+    <boolean name="USER_ACCEPTED_UPSELL" value="true" />
+    <string name="tachyon_registration_id">+1-PkNoJh5O0WKcXRp6S2Z9ZAb3f</string>
+    <boolean name="link_preview_tombstone_seen" value="true" />
+    <int name="provisioning_ui_type" value="6" />
+    <long name="conversation_list_last_popup_show_timestamp_ms" value="1574387245903" />
+    <long name="total_millis_spent" value="261469172" />
+    <boolean name="first_message_sent" value="false" />
+    <string name="tachyon_private_key">0EBhsOeGHl9T276zmyrtA0RFtZmTv0Tq//0uOOM+blQ=&#10;    </string>
+    <boolean name="app_already_migrated_blocked_contacts" value="true" />
+    <int name="last_ime_height" value="741" />
+    <boolean name="has_user_dismissed_assistant_suggestions_tooltip" value="true" />
+    <long name="first_rcs_eligibility_time" value="1560743519835" />
+    <boolean name="ditto_has_seen_pairing_screen" value="true" />
+    <boolean name="fast_track_prompt_dismissed" value="true" />
+    <boolean name="has_try_expressive_stickers_setup" value="true" />
+    <boolean name="p2p_conversation_training_popup_dismissed" value="true" />
+    <string name="tachyon_public_key">BVf5VudwJuOhHXKuo5sU2jh6aUBcBq9d4RRULiDy5DU8&#10;    </string>
+    <boolean name="p2p_conversation_suggestions_enabled" value="true" />
+    <int name="federated_learning_feature_consent" value="4" />
+    <string name="notification_sound">content://media/external/audio/media/279</string>
+    <boolean name="first_multi_media_shared" value="false" />
+    <string name="ditto_desktop_settings">OAFgAWoIZDRjZTZmYzA=&#10;    </string>
+    <boolean name="send_sound" value="false" />
+    <long name="first_time_rcs_accepted_millis" value="1574019387468" />
+    <boolean name="notifications_enabled" value="true" />
+    <boolean name="ditto_silenced_notifications" value="false" />
+    <string name="recent_emoji">1F917</string>
+    <long name="last_opened_media_picker_time_millis" value="1575683272506" />
+    <long name="latest_notification_message_timestamp" value="1576384702556" />
+    <string name="tachyon_registration_token">AFOGgfbcdcElrHubHez084NnVfp0OR0OcnQ8ZIL8uUybHIj35qzTfugSJlOqOstq0JQ46SFM3qPy&#10;XJKHEbK0DR6/oSGg7FH1pxjjoR0GeACvXVuf07A4fdI1iOJJytO5ylcuDBdFoplaH4s2+7ZugJNn&#10;UQ==&#10;    </string>
+    <string name="ditto_active_desktop_request_id">2a0eb143-3d41-72c3-96e6-5643a68ef256</string>
+    <boolean name="send_seen_report_rcs" value="true" />
+    <long name="last_rbm_active_event_time_millis" value="1570957361795" />
+    <long name="first_opened_bugle_time_millis" value="1560744874272" />
+    <boolean name="m2_enabled_on_last_startup" value="true" />
+    <int name="max_conversation_count" value="37" />
+    <boolean name="link_preview_wifi_only" value="true" />
+    <int name="rcs_provisioning_status" value="1" />
+    <boolean name="first_smart_reply" value="false" />
+    <string name="UPSELL_PROMPT_SIM_ID">89014104279205216377</string>
+    <int name="sent_message_counter_for_dismissing_assistant_suggestion_tooltip" value="1" />
+    <boolean name="ditto_persistent_notification_channel_enabled" value="false" />
+    <int name="spam_protection_feature_consent" value="4" />
+    <int name="rcs_provisioning_status_pev2" value="3" />
+    <boolean name="federated_learning_popup_is_showing" value="false" />
+    <int name="rcs_sub_id" value="1" />
+    <long name="first_rcs_provisioning_ui_event_time" value="1572117404394" />
+    <boolean name="has_user_dismissed_p2p_conversation_suggestions_tooltip" value="true" />
+    <long name="last_full_sync_time_millis" value="1560750405698" />
+    <boolean name="bugle_full_sync_in_progress" value="false" />
+    <boolean name="first_dark_mode" value="false" />
+    <boolean name="enable_rcs" value="true" />
+    <int name="fast_track_onboarding_progress" value="50" />
+    <string name="ditto_active_desktop_id">CA8SGSsxLWZwbmc0a1JacmpnTVl3eXVwT0hYY0EaBUJ1Z2xl&#10;    </string>
+    <long name="app_install_time_millis" value="1563281211339" />
+    <boolean name="notification_vibration" value="true" />
+    <long name="last_app_update_time_millis" value="1575330083469" />
+    <boolean name="smart_actions_enabled" value="true" />
+    <boolean name="first_default_sms_set" value="false" />
+    <string name="rcs_mobile_data_auto_download_limit">0</string>
+</map>

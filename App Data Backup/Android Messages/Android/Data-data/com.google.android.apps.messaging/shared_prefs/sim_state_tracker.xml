@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="group_id_level1"></string>
+    <string name="sim_operator">310410</string>
+    <string name="sim_id">89014104279205216377</string>
+    <string name="raw_msisdn">17144993505</string>
+    <int name="sub_id" value="1" />
+    <int name="slot_index" value="0" />
+    <boolean name="is_fi_device" value="false" />
+    <string name="sim_operator_name"></string>
+    <string name="imsi">310410920521637</string>
+    <string name="network_operator_name">AT&amp;T</string>
+    <string name="formatted_msisdn">+17144993505</string>
+</map>

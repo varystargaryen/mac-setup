@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="RcsSettings__enable_capdiscovery_via_presence" value="false" />
+    <boolean name="CslibSettings__enable_cslib_clearcut_logging" value="true" />
+    <long name="SipSettings__capabilities_validity_period_override_millis" value="-1" />
+    <long name="BusinessInfoRetrieval__client_ringing_period_sec" value="30" />
+    <long name="RbmPayments__retrieve_transaction_status_interval_minutes" value="20" />
+    <boolean name="RbmRichCards__enable_standalone_cards" value="true" />
+    <boolean name="CslibSettings__prefer_ipv6" value="false" />
+    <long name="BusinessInfoRetrieval__client_timeout_sec" value="120" />
+    <boolean name="SipSettings__enable_rcs_server_keep_alives" value="true" />
+    <long name="BusinessInfoRetrieval__max_immediate_retries" value="5" />
+    <boolean name="RcsProvisioning__is_carrier_authorized_for_welcome_message" value="false" />
+    <boolean name="RcsProvisioning__skip_header_enrichment" value="false" />
+    <long name="BusinessInfoRetrieval__immediate_retry_backoff_sec" value="2" />
+    <boolean name="SipSettings__enable_sip_alias" value="false" />
+    <boolean name="Rbm__enable" value="true" />
+    <boolean name="ProvisioningEngineV2__enabled2" value="true" />
+    <long name="SipSettings__forced_initial_registration_delay_millis" value="-1" />
+    <boolean name="InstanceIdInProvisioning__enable_instance_id_in_provisioning" value="false" />
+    <boolean name="RcsProvisioning__allow_seamless_authorized_provisioning" value="false" />
+    <long name="RcsProvisioning__otp_timeout_millis" value="600000" />
+    <string name="RbmPayments__payment_type_pay_with_google">https://paywith.google.com/pay</string>
+    <boolean name="RcsGmscoreBinding__enable_binding" value="false" />
+    <boolean name="SipSettings__should_add_pcscf_address_to_route_header_for_rcs" value="true" />
+    <boolean name="SmsSharing__enable_sms_sharing" value="false" />
+    <boolean name="CslibSettings__enable_bugle_multi_process_preferences" value="false" />
+    <long name="CslibSettings__periodic_metrics_send_interval_mins" value="1440" />
+    <boolean name="CslibSettings__enable_rcs_uptime_metrics" value="true" />
+    <string name="RbmPayments__whitelisted_bot_domains">rbm.goog|</string>
+    <boolean name="ProvisioningEngineV2__enabled" value="false" />
+    <boolean name="SipSettings__enable_cpm" value="false" />
+    <long name="BusinessInfoRetrieval__server_retry_backoff_rate" value="3" />
+    <long name="RbmPayments__payments_http_max_retries" value="3" />
+    <string name="DiagnosticSettings__ims_connectivity_verbosity">INFO</string>
+    <boolean name="RbmPayments__enable_payments_v1_when_rcs_engine_running_in_bugle_apk" value="false" />
+    <long name="RcsProvisioning__pev2_state_timeout_millis" value="300000" />
+    <long name="__phenotype_configuration_version" value="1563261900" />
+    <string name="DiagnosticSettings__ims_availability_verbosity">INFO</string>
+    <boolean name="SipSettings__update_expected_host_from_dns" value="false" />
+    <boolean name="RbmInteropVodafonePlatform__enable_rbm_vodafone_platform" value="true" />
+    <boolean name="SipSettings__enable_p_access_network_info_header" value="false" />
+    <boolean name="MsrpSettings__enable_cema" value="false" />
+    <long name="RbmPayments__payments_http_write_timeout_seconds" value="30" />
+    <string name="__phenotype_server_token">CAESOQDyi0h8qUm2GdWKMhl86H_LC4_BkkkTuczZHA6nofbm4mvAlna9EkILklyiX53-d7n4OsczbPCfHw</string>
+    <long name="CslibSettings__periodic_metrics_retry_backoff_mins" value="60" />
+    <string name="RbmPayments__platform_domain_override"></string>
+    <boolean name="FastTrackCslib__enable_fast_track" value="false" />
+    <boolean name="RcsProvisioning__always_provision_through_mobile_network" value="false" />
+    <boolean name="MultiSimSettings__use_sim_state_from_subscription_info" value="true" />
+    <boolean name="RbmPayments__use_google_pay_test_environment" value="false" />
+    <boolean name="RcsFileTransfer__ignore_ftauth" value="true" />
+    <boolean name="SmsSharing__process_incoming_file_transfer_link" value="false" />
+    <string name="__phenotype_snapshot_token"> com.google.android.ims.library#com.google.android.apps.messaging 44076348 12 914608135 com.google.android.ims.library#com.google.android.apps.messaging 914608135 1</string>
+    <boolean name="RbmRichCards__enable_carousels" value="true" />
+    <string name="Rbm__google_platform_bot_regex">@rbm[.]goog$</string>
+    <long name="BusinessInfoRetrieval__server_retry_backoff_sec" value="300" />
+    <long name="RcsProvisioning__pev2_max_replay_count" value="10" />
+    <boolean name="RcsProvisioning__show_google_tos" value="false" />
+    <long name="BusinessInfoRetrieval__immediate_retry_backoff_rate_sec" value="2" />
+    <boolean name="RcsProvisioning__is_carrier_authorized_for_reject_message" value="false" />
+    <string name="BusinessInfoRetrieval__debug_business_info_domain"></string>
+    <boolean name="RcsProvisioning__is_additional_client_versions_supported" value="false" />
+    <string name="BusinessInfoRetrieval__verified_platform_domains">rbm.goog</string>
+    <long name="RbmPayments__payments_http_read_timeout_seconds" value="30" />
+    <boolean name="RbmPayments__enable_payments_v1_when_rcs_engine_running_in_cs_apk" value="false" />
+    <boolean name="FastTrackCslib__require_constellation_consent" value="false" />
+    <boolean name="PhenotypeRcsFlags__enabled" value="false" />
+    <boolean name="RcsProvisioning__allow_manual_phone_number_input" value="false" />
+    <boolean name="BusinessInfoRetrieval__enabled" value="true" />
+    <string name="RbmSpecificRcsOverrides__rcs_profile"></string>
+    <string name="RbmInteropVodafonePlatform__vodafone_platform_bot_regex">@.+[.]vodafone[.]com$</string>
+    <boolean name="RcsProvisioning__pev2_state_timeout_enabled" value="true" />
+    <boolean name="SipSettings__enable_in_dialog_refer" value="false" />
+    <boolean name="SmsSharing__process_incoming_geolocation_link" value="false" />
+    <boolean name="FastTrackCslib__require_constellation_verified" value="false" />
+    <long name="SocketSettings__tls_socket_read_timeout_millis" value="60000" />
+    <string name="RcsSettings__msrp_cert_fingerprint_algorithm">SHA-1</string>
+    <boolean name="SmsSharing__force_env_support" value="false" />
+    <boolean name="SipSettings__enable_x_google_event_id_header" value="true" />
+    <long name="ProvisioningEngineV2__min_csapk_version" value="30126910" />
+    <long name="RbmPayments__payments_http_connect_timeout_seconds" value="30" />
+</map>

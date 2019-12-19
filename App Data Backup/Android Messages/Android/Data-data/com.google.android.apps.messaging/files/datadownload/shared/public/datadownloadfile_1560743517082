@@ -1,0 +1,555 @@
+
+WRestaurants nearbyFindRestaurants2ASSISTANT_RESTAURANT_FIND:ASSISTANT_DINING@è
+—{Cuisine} restaurantsFindRestaurants"
+CuisineCuisine2$ASSISTANT_RESTAURANT_FIND_BY_CUISINE:ASSISTANT_DINING@ÐJ{Cuisine} restaurants nearby
+r{Meal} nearbyFindRestaurants"
+MealMealMealWeak2!ASSISTANT_RESTAURANT_FIND_BY_MEAL:ASSISTANT_DINING@Ð
+ß{Restaurant}AboutRestaurant"Š
+
+Restaurant/collection/restaurants"/collection/cafes_and_coffee_shops/collection/ice_cream_parlors/collection/bakeries
+Restaurant2ASSISTANT_RESTAURANT_ABOUT:ASSISTANT_DINING@ 
+“{Movie}
+AboutMovie":
+Movie/collection/films/collection/film_seriesMovie2ASSISTANT_MOVIE_ABOUT:ASSISTANT_MOVIES@ÐJ{Movie} movie info
+HMovies nearby
+FindMovies2ASSISTANT_MOVIE_FIND:ASSISTANT_MOVIES@è
+¥{Entity}AboutEntityAboutRestaurant"Æ
+Entity/collection/athletes/collection/musical_groups/collection/music_group_members/collection/musicians/collection/sports_teams/collection/tv_episodes/collection/tv_programsEntity2ASSISTANT_GENERIC_ENTITY:ASSISTANT_GENERAL_INFO
+=SharePhoneNumberPHONE_SHARE2CONTACT_SHARE_PHONE_NUMBER
+#UpdateContact(2CONTACT_UPDATE
+EWeatherWeather2ASSISTANT_WEATHER_GENERIC:ASSISTANT_WEATHER@è
+\Weather {Time}Weather"
+TimeWhen2ASSISTANT_WEATHER_WITH_TIME:ASSISTANT_WEATHER@Ð
+1ShareLocationLOCATION_SHARE2LOCATION_SHARE
+3SpamClassificationSPAM(2SPAM_CLASSIFICATION
+&SendPaymentRequest(2PAYMENT_SEND
+=ReminderClassificationREMINDER2REMINDER_CLASSIFICATION
+%EMOTION(2EMOTION_CLASSIFICATION
+KDuoCall"*
+ContinuationTriggerContinuationTrigger(2DUO_CONTINUATION
+6DuoCall"
+ReplyTriggerReplyTrigger(2	DUO_REPLY
+8DuoCall"
+AlwaysTriggerAlwaysTrigger2DUO_GENERIC
+8	Thumbs UpGif"
+ThumbsUpThumbsUp(2GIF_ThumbsUp
+NoGif"
+NoNo(2GIF_No
+#YesGif"
+
+YesYes(2GIF_Yes
++ShrugGif"
+ShrugShrug(2	GIF_Shrug
+4Mic DropGif"
+MicDropMicDrop(2GIF_MicDrop
++SorryGif"
+SorrySorry(2	GIF_Sorry
+/CheersGif"
+CheersCheers(2
+GIF_Cheers
+8	Thank YouGif"
+ThankYouThankYou(2GIF_ThankYou
+'WinkGif"
+WinkWink(2GIF_Wink
+MHappy Birthday!Gif"
+HappyBirthdayHappyBirthday(2GIF_HappyBirthday
+4Miss YouGif"
+MissYouMissYou(2GIF_MissYou
++CreepGif"
+CreepCreep(2	GIF_Creep
+/SleepyGif"
+SleepySleepy(2
+GIF_Sleepy
+8	Excuse MeGif"
+ExcuseMeExcuseMe(2GIF_ExcuseMe
+'WhatGif"
+WhatWhat(2GIF_What
++DanceGif"
+DanceDance(2	GIF_Dance
++PartyGif"
+PartyParty(2	GIF_Party
+3PuppiesGif"
+PuppiesPuppies(2GIF_Puppies
+3KittensGif"
+KittensKittens(2GIF_Kittens
+#ByeGif"
+
+ByeBye(2GIF_Bye
++YikesGif"
+YikesYikes(2	GIF_Yikes
+3AwkwardGif"
+AwkwardAwkward(2GIF_Awkward
+3WaitingGif"
+WaitingWaiting(2GIF_Waiting
+3EyerollGif"
+EyerollEyeroll(2GIF_Eyeroll
+'HugsGif"
+HugsHugs(2GIF_Hugs
+#WowGif"
+
+WowWow(2GIF_Wow
++BoredGif"
+BoredBored(2	GIF_Bored
+/HungryGif"
+HungryHungry(2
+GIF_Hungry
+'OopsGif"
+OopsOops(2GIF_Oops
+#DuhGif"
+
+DuhDuh(2GIF_Duh
+3NervousGif"
+NervousNervous(2GIF_Nervous
++AngryGif"
+AngryAngry(2	GIF_Angry
+8	Chill OutGif"
+ChillOutChillOut(2GIF_ChillOut
+'DoneGif"
+DoneDone(2GIF_Done
+/ScaredGif"
+ScaredScared(2
+GIF_Scared
+'StopGif"
+StopStop(2GIF_Stop
++AgreeGif"
+AgreeAgree(2	GIF_Agree
++LoserGif"
+LoserLoser(2	GIF_Loser
+'ColdGif"
+ColdCold(2GIF_Cold
+#OmgGif"
+
+OmgOmg(2GIF_Omg
+#AwwGif"
+
+AwwAww(2GIF_Aww
+/PleaseGif"
+PleasePlease(2
+GIF_Please
+#HeyGif"
+
+HeyHey(2GIF_Hey
+9
+I Love YouGif"
+ILoveYouILoveYou(2GIF_ILoveYou
+,I KnowGif"
+IKnowIKnow(2	GIF_IKnow
+0Will DoGif"
+WillDoWillDo(2
+GIF_WillDo
+#YayGif"
+
+YayYay(2GIF_Yay
+(Damn!Gif"
+DamnDamn(2GIF_Damn
++YummyGif"
+YummyYummy(2	GIF_Yummy
+9
+You There?Gif"
+YouThereYouThere(2GIF_YouThere
+'LameGif"
+LameLame(2GIF_Lame
++MaybeGif"
+MaybeMaybe(2	GIF_Maybe
+#WhyGif"
+
+WhyWhy(2GIF_Why
+8	No ThanksGif"
+NoThanksNoThanks(2GIF_NoThanks
+DGood MorningGif"
+GoodMorningGoodMorning(2GIF_GoodMorning
+#LolGif"
+
+LolLol(2GIF_Lol
+,Me TooGif"
+MeTooMeToo(2	GIF_MeToo
+8	Good IdeaGif"
+GoodIdeaGoodIdea(2GIF_GoodIdea
+<
+Guess WhatGif"
+	GuessWhat	GuessWhat(2GIF_GuessWhat
+IYou're WelcomeGif"
+YoureWelcomeYoureWelcome(2GIF_YoureWelcome
+1I'm HereGif"
+ImHereImHere(2
+GIF_ImHere
+1I'm DoneGif"
+ImDoneImDone(2
+GIF_ImDone
+#AhhGif"
+
+AhhAhh(2GIF_Ahh
+OHave A Great Day!Gif"
+HaveAGreatDayHaveAGreatDay(2GIF_HaveAGreatDay
+PFingers CrossedGif" 
+FingersCrossedFingersCrossed(2GIF_FingersCrossed
+3PerfectGif"
+PerfectPerfect(2GIF_Perfect
+,Got ItGif"
+GotItGotIt(2	GIF_GotIt
+(Uh OhGif"
+UhOhUhOh(2GIF_UhOh
+OkGif"
+OkOk(2GIF_Ok
+5	Have Fun!Gif"
+HaveFunHaveFun(2GIF_HaveFun
+4Amazing!Gif"
+AmazingAmazing(2GIF_Amazing
++CrazyGif"
+CrazyCrazy(2	GIF_Crazy
+'NiceGif"
+NiceNice(2GIF_Nice
+'OuchGif"
+OuchOuch(2GIF_Ouch
+7CongratsGif"
+CongratsCongrats(2GIF_Congrats
+#OohGif"
+
+OohOoh(2GIF_Ooh
+9
+Can't WaitGif"
+CantWaitCantWait(2GIF_CantWait
+#SmhGif"
+
+SmhSmh(2GIF_Smh
+ASee You SoonGif"
+
+SeeYouSoon
+SeeYouSoon(2GIF_SeeYouSoon
+5	On My WayGif"
+OnMyWayOnMyWay(2GIF_OnMyWay
+<
+Good NightGif"
+	GoodNight	GoodNight(2GIF_GoodNight
+#BooGif"
+
+BooBoo(2GIF_Boo
+'OkayGif"
+OkayOkay(2GIF_Okay
+JYou're The BestGif"
+YoureTheBestYoureTheBest(2GIF_YoureTheBest
+DAlmost ThereGif"
+AlmostThereAlmostThere(2GIF_AlmostThere
+'GeezGif"
+GeezGeez(2GIF_Geez
+0Love ItGif"
+LoveItLoveIt(2
+GIF_LoveIt
+EhGif"
+EhEh(2GIF_Eh
+3AlrightGif"
+AlrightAlright(2GIF_Alright
+<
+No WorriesGif"
+	NoWorries	NoWorries(2GIF_NoWorries
+#HehGif"
+
+HehHeh(2GIF_Heh
+$HmmmGif"
+
+HmmHmm(2GIF_Hmm
+5	What's UpGif"
+WhatsUpWhatsUp(2GIF_WhatsUp
+8	Thank GodGif"
+ThankGodThankGod(2GIF_ThankGod
+AYou Alright?Gif"
+
+YouAlright
+YouAlright(2GIF_YouAlright
+/ReallyGif"
+ReallyReally(2
+GIF_Really
+3WelcomeGif"
+WelcomeWelcome(2GIF_Welcome
+,Sweet!Gif"
+SweetSweet(2	GIF_Sweet
+@Sounds GoodGif"
+
+SoundsGood
+SoundsGood(2GIF_SoundsGood
+@Feel BetterGif"
+
+FeelBetter
+FeelBetter(2GIF_FeelBetter
+#UghGif"
+
+UghUgh(2GIF_Ugh
+3AwesomeGif"
+AwesomeAwesome(2GIF_Awesome
+8	Good LuckGif"
+GoodLuckGoodLuck(2GIF_GoodLuck
+1Let's GoGif"
+LetsGoLetsGo(2
+GIF_LetsGo
+8	Very NiceGif"
+VeryNiceVeryNice(2GIF_VeryNice
+0Wake UpGif"
+WakeUpWakeUp(2
+GIF_WakeUp
+8	Come OverGif"
+ComeOverComeOver(2GIF_ComeOver
+1I'm BackGif"
+ImBackImBack(2
+GIF_ImBack
+(Ha haGif"
+HahaHaha(2GIF_Haha
+8	Of CourseGif"
+OfCourseOfCourse(2GIF_OfCourse
+#BroGif"
+
+BroBro(2GIF_Bro
+>How Are You?Gif"
+	HowAreYou	HowAreYou(2GIF_HowAreYou
+3ExactlyGif"
+ExactlyExactly(2GIF_Exactly
+DJust KiddingGif"
+JustKiddingJustKidding(2GIF_JustKidding
+0Call MeGif"
+CallMeCallMe(2
+GIF_CallMe
+(Do ItGif"
+DoItDoIt(2GIF_DoIt
+%Nooo!Gif"
+
+NooNoo(2GIF_Noo
+>I Don't KnowGif"
+	IDontKnow	IDontKnow(2GIF_IDontKnow
+0Not BadGif"
+NotBadNotBad(2
+GIF_NotBad
+,No WayGif"
+NoWayNoWay(2	GIF_NoWay
+<
+Sure ThingGif"
+	SureThing	SureThing(2GIF_SureThing
+>I Don't CareGif"
+	IDontCare	IDontCare(2GIF_IDontCare
+IHave A GoodDayGif"
+HaveAGoodDayHaveAGoodDay(2GIF_HaveAGoodDay
+/BoringGif"
+BoringBoring(2
+GIF_Boring
+<
+No ProblemGif"
+	NoProblem	NoProblem(2GIF_NoProblem
+4Hey BabeGif"
+HeyBabeHeyBabe(2GIF_HeyBabe
+EWhere Are YouGif"
+WhereAreYouWhereAreYou(2GIF_WhereAreYou
+0Oh WellGif"
+OhWellOhWell(2
+GIF_OhWell
+8	Your moveGif"
+YourMoveYourMove(2GIF_YourMove
+'KissGif"
+KissKiss(2GIF_Kiss
+#wtfGif"
+
+WtfWtf(2GIF_Wtf
+'TGIFGif"
+TgifTgif(2GIF_Tgif
+&CryingGif"
+
+CryCry(2GIF_Cry
+LHappy HolidaysGif"
+HappyHolidaysHappyHolidays(2GIF_HappyHolidays
+;	ChristmasGif"
+	Christmas	Christmas(2GIF_Christmas
+:Happy New YearGif"
+NewYearNewYear(2GIF_NewYear
+7HanukkahGif"
+HanukkahHanukkah(2GIF_Hanukkah
+M	ToothlessGif""
+DragonEasterEggDragonEasterEgg(2GIF_DragonEasterEgg
+f	Long Shot	MovieName"
+	MovieNameLongShot2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJLong Shot movie info
+g	UglyDolls	MovieName"
+	MovieName	UglyDolls2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJUglyDolls movie info
+oThe Intruder	MovieName"
+	MovieNameTheIntruder2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe Intruder movie info
+i
+El Chicano	MovieName"
+	MovieName	ElChicano2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJEl Chicano movie info
+~Meeting Gorbachev	MovieName"
+	MovieNameMeetingGorbachev2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJMeeting Gorbachev movie info
+^Bolden	MovieName"
+	MovieNameBolden2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJBolden movie info
+^Shadow	MovieName"
+	MovieNameShadow2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJShadow movie info
+[Clara	MovieName"
+	MovieNameClara2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJClara movie info
+dAvengers	MovieName"
+	MovieNameAvengers2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJAvengers movie info
+uCaptain Marvel	MovieName"
+	MovieNameCaptainMarvel2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJCaptain Marvel movie info
+The Curse of La Llorona	MovieName" 
+	MovieNameTheCurseofLaLlorona2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ"The Curse of La Llorona movie info
+pBreakthrough	MovieName"
+	MovieNameBreakthrough2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJBreakthrough movie info
+`Shazam!	MovieName"
+	MovieNameShazam2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJShazam! movie info
+[Dumbo	MovieName"
+	MovieNameDumbo2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJDumbo movie info
+^Little	MovieName"
+	MovieNameLittle2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJLittle movie info
+oPet Sematary	MovieName"
+	MovieNamePetSematary2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJPet Sematary movie info
+RUs	MovieName"
+	MovieNameUs2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJUs movie info
+—PokÃ©mon Detective Pikachu	MovieName"$
+	MovieNamePokemonDetectivePikachu2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ%PokÃ©mon Detective Pikachu movie info
+i
+The Hustle	MovieName"
+	MovieName	TheHustle2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe Hustle movie info
+kAll Is True	MovieName"
+	MovieName	AllIsTrue2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJAll Is True movie info
+XPoms	MovieName"
+	MovieNamePoms2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJPoms movie info
+aTolkien	MovieName"
+	MovieNameTolkien2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJTolkien movie info
+ŽThe Biggest Little Farm	MovieName"!
+	MovieNameTheBiggestLittleFarm2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ"The Biggest Little Farm movie info
+]My Son	MovieName"
+	MovieNameMySon2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJMy Son movie info
+oCharlie Says	MovieName"
+	MovieNameCharlieSays2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJCharlie Says movie info
+ˆThe Silence of Others	MovieName"
+	MovieNameTheSilenceofOthers2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ The Silence of Others movie info
+xSerengeti Rules	MovieName"
+	MovieNameSerengetiRules2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJSerengeti Rules movie info
+¨!John Wick: Chapter 3 - Parabellum	MovieName"'
+	MovieNameJohnWickChapter3Parabellum2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ,John Wick: Chapter 3 - Parabellum movie info
+‰The Sun Is Also a Star	MovieName"
+	MovieNameTheSunIsAlsoaStar2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ!The Sun Is Also a Star movie info
+vA Dog's Journey	MovieName"
+	MovieNameADogsJourney2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJA Dog's Journey movie info
+sDe De Pyaar De	MovieName"
+	MovieNameDeDePyaarDe2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJDe De Pyaar De movie info
+tThe Third Wife	MovieName"
+	MovieNameTheThirdWife2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe Third Wife movie info
+oThe Souvenir	MovieName"
+	MovieNameTheSouvenir2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe Souvenir movie info
+qTrial by Fire	MovieName"
+	MovieNameTrialbyFire2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJTrial by Fire movie info
+aHellboy	MovieName"
+	MovieNameHellboy2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJHellboy movie info
+^Kalank	MovieName"
+	MovieNameKalank2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJKalank movie info
+” Star Wars: The Rise of Skywalker	MovieName"
+	MovieNameStarWars2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ+Star Wars: The Rise of Skywalker movie info
+cFrozen 2	MovieName"
+	MovieNameFrozen22
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJFrozen 2 movie info
+oWonder Woman	MovieName"
+	MovieNameWonderWoman2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJWonder Woman movie info
+g	Rocketman	MovieName"
+	MovieName	Rocketman2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJRocketman movie info
+qThe Lion King	MovieName"
+	MovieNameTheLionKing2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe Lion King movie info
+aAladdin	MovieName"
+	MovieNameAladdin2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJAladdin movie info
+kToy Story 4	MovieName"
+	MovieName	ToyStory42
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJToy Story 4 movie info
+¡Godzilla: King of the Monsters	MovieName"&
+	MovieNameGodzillaKingoftheMonsters2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ)Godzilla: King of the Monsters movie info
+’Spider-Man: Far From Home	MovieName"!
+	MovieNameSpiderManFarFromHome2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ$Spider-Man: Far From Home movie info
+oDark Phoenix	MovieName"
+	MovieNameDarkPhoenix2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJDark Phoenix movie info
+ª"John Wick: Chapter 3 -- Parabellum	MovieName"'
+	MovieNameJohnWickChapter3Parabellum2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ-John Wick: Chapter 3 -- Parabellum movie info
+™Men In Black: International	MovieName"$
+	MovieNameMenInBlackInternational2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ&Men In Black: International movie info
+wThe New Mutants	MovieName"
+	MovieNameTheNewMutants2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJThe New Mutants movie info
+i
+Gemini Man	MovieName"
+	MovieName	GeminiMan2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJGemini Man movie info
+[Joker	MovieName"
+	MovieNameJoker2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJJoker movie info
+Ä*Extremely Wicked, Shockingly Evil and Vile	MovieName"1
+	MovieName$ExtremelyWickedShockinglyEvilandVile2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ5Extremely Wicked, Shockingly Evil and Vile movie info
+cAd Astra	MovieName"
+	MovieNameAdAstra2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJAd Astra movie info
+’The Secret Life of Pets 2	MovieName"!
+	MovieNameTheSecretLifeofPets22
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ$The Secret Life of Pets 2 movie info
+i
+Late Night	MovieName"
+	MovieName	LateNight2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJLate Night movie info
+nChild's Play	MovieName"
+	MovieName
+ChildsPlay2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJChild's Play movie info
+žOnce Upon a Time In Hollywood	MovieName"%
+	MovieNameOnceUponaTimeInHollywood2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ(Once Upon a Time In Hollywood movie info
+pHobbes & Shaw	MovieName"
+	MovieName
+HobbesShaw2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJHobbes & Shaw movie info
+•Where'd You Go, Bernadette	MovieName""
+	MovieNameWheredYouGoBernadette2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJ%Where'd You Go, Bernadette movie info
+sDownton Abbey	MovieName"
+	MovieNameDowntownAbbey2
+MOVIE_NAME:ASSISTANT_MOVIES@ÐJDownton Abbey movie info
+J	{Command}ScriptedReply"
+CommandCommand12SCRIPTED_REPLY_COMMAND1
+J	{Command}ScriptedReply"
+CommandCommand22SCRIPTED_REPLY_COMMAND2
+J	{Command}ScriptedReply"
+CommandCommand32SCRIPTED_REPLY_COMMAND3

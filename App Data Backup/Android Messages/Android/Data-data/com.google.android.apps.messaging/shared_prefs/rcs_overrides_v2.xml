@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="acs_url">http://rcs-acs-prod-us.sandbox.google.com/</string>
+    <boolean name="has_overrides" value="true" />
+    <string name="otp_pattern">Your\sMessenger\sverification\scode\sis\sG-(\d{6})</string>
+</map>

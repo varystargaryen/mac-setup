@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="previous_state" value="2" />
+    <int name="last_registered_network_type" value="4" />
+    <int name="current_state" value="3" />
+    <int name="last_unregistered_reason" value="0" />
+    <int name="last_ignore_reason" value="2" />
+    <long name="last_unregistered_ts" value="1576394484459" />
+    <long name="last_ignore_ts" value="1576394373898" />
+    <long name="previous_event_ts" value="1576394491947" />
+    <long name="last_registered_ts" value="1576394491947" />
+    <int name="previously_logged_state" value="3" />
+</map>

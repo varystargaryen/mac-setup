@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="FIRST_STARTUP" value="true" />
+    <string name="SYNC_LANGUAGE">en-US</string>
+    <long name="LAST_SYNC_TIME" value="1575661809719" />
+</map>
