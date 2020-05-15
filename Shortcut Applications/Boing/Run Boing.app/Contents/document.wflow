@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.42</string>
+	<string>492</string>
 	<key>AMApplicationVersion</key>
-	<string>2.9</string>
+	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -112,9 +112,9 @@ It will use the following command to run Boing:
 					<key>0</key>
 					<dict>
 						<key>default value</key>
-						<string></string>
+						<string>Cancel</string>
 						<key>name</key>
-						<string>questionText</string>
+						<string>negativeTitle</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -164,9 +164,9 @@ It will use the following command to run Boing:
 					<key>4</key>
 					<dict>
 						<key>default value</key>
-						<string>Cancel</string>
+						<string></string>
 						<key>name</key>
-						<string>negativeTitle</string>
+						<string>questionText</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -178,7 +178,7 @@ It will use the following command to run Boing:
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>649.000000:266.000000</string>
+				<string>309.000000:266.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Ask for Confirmation.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -226,8 +226,7 @@ It will use the following command to run Boing:
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>if application "Terminal" is running then	tell application "Terminal"		# do script without "in window" will open a new window        		do script "cd /Users/digvijayjani/Documents/Git/Boing/Releases/Boing; chmod +x boing.sh; ./boing.sh"		activate	end tell	tell application "BetterTouchTool"		# Snap window of Terminal application to the left half of the screen		execute_assigned_actions_for_trigger "6B83AAEA-0DA3-4643-A642-0D5BFD6CB89A"	end tellelse	tell application "Terminal"		# window 1 is guaranteed to be recently opened window        		do script "cd /Users/digvijayjani/Documents/Git/Boing/Releases/Boing; chmod +x boing.sh; ./boing.sh" in window 1		activate	end tell
-	tell application "BetterTouchTool"		# Snap window of Terminal application to the left half of the screen		execute_assigned_actions_for_trigger "6B83AAEA-0DA3-4643-A642-0D5BFD6CB89A"	end tellend if</string>
+					<string>if application "Terminal" is running then	tell application "Terminal"		# do script without "in window" will open a new window        		do script "cd /Users/digvijayjani/Documents/Git/Boing/; ./boing"		activate	end tell	tell application "BetterTouchTool"		# Snap window of Terminal application to the left half of the screen		execute_assigned_actions_for_trigger "6B83AAEA-0DA3-4643-A642-0D5BFD6CB89A"	end tellelse	tell application "Terminal"		# window 1 is guaranteed to be recently opened window        		do script "cd /Users/digvijayjani/Documents/Git/Boing/; ./boing" in window 1		activate	end tell	tell application "BetterTouchTool"		# Snap window of Terminal application to the left half of the screen		execute_assigned_actions_for_trigger "6B83AAEA-0DA3-4643-A642-0D5BFD6CB89A"	end tellend if</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -281,7 +280,7 @@ end run</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>649.000000:511.000000</string>
+				<string>309.000000:511.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -291,7 +290,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>B0479B55-BE9D-4ABB-90DE-70EAFC00F430</key>
+		<key>A5D5E673-8C0F-4F5C-9099-0AF04D25AA42</key>
 		<dict>
 			<key>from</key>
 			<string>09F48863-FE50-4197-A4F1-595158EEED9B - 09F48863-FE50-4197-A4F1-595158EEED9B</string>
