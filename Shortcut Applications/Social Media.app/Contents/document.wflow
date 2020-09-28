@@ -176,7 +176,7 @@ Do you wish to continue?</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:266.000000</string>
+				<string>449.000000:266.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Ask for Confirmation.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -224,7 +224,7 @@ Do you wish to continue?</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>tell application "System Events"	tell application "Mail" to activate	tell application "BetterTouchTool"		# Snap window of Mail application to the top left quarter/corner of the screen		execute_assigned_actions_for_trigger "7A027353-147F-4463-8F41-B2C9F4F1DDDF"	end tell	tell application "Android Messages" to activate	tell application "BetterTouchTool"		# Snap window of Android Messages application to the bottom left quarter/corner of the screen		execute_assigned_actions_for_trigger "DE680F85-1308-400F-9A6D-06A94AAC2ABE"	end tell	tell application "Caprine" to activate	delay 3	tell application "BetterTouchTool"		# Snap window of Caprine application to the bottom right quarter/corner of the screen		execute_assigned_actions_for_trigger "91760322-511B-4C0A-84EB-944638A3877D"	end tell	tell application "Telegram" to activate	delay 3	tell application "BetterTouchTool"		# Snap window of YakYak application to the top right quarter/corner of the screen		execute_assigned_actions_for_trigger "980C02BA-0D82-47AC-BAE6-878EF58BA6DD"	end tellend tell</string>
+					<string>tell application "System Events"	tell application "Mail" to activate	tell application "BetterTouchTool"		# Snap window of Mail application to the top left quarter/corner of the screen		execute_assigned_actions_for_trigger "7A027353-147F-4463-8F41-B2C9F4F1DDDF"	end tell	tell application "Android Messages" to activate	tell application "BetterTouchTool"		# Snap window of Android Messages application to the bottom left quarter/corner of the screen		execute_assigned_actions_for_trigger "DE680F85-1308-400F-9A6D-06A94AAC2ABE"	end tell	tell application "Messenger" to activate	delay 3	tell application "BetterTouchTool"		# Snap window of Messenger application to the bottom right quarter/corner of the screen		execute_assigned_actions_for_trigger "91760322-511B-4C0A-84EB-944638A3877D"	end tell	tell application "Telegram" to activate	delay 3	tell application "BetterTouchTool"		# Snap window of YakYak application to the top right quarter/corner of the screen		execute_assigned_actions_for_trigger "980C02BA-0D82-47AC-BAE6-878EF58BA6DD"	end tellend tell</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -280,7 +280,7 @@ end run</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:511.000000</string>
+				<string>449.000000:511.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -290,7 +290,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>5E3DA9BF-D91E-4069-B323-E1E01E75138E</key>
+		<key>D7F4CB20-7F18-49B4-8710-8E337FE868AD</key>
 		<dict>
 			<key>from</key>
 			<string>089469E1-D0FE-4E35-A582-DDCE38198142 - 089469E1-D0FE-4E35-A582-DDCE38198142</string>

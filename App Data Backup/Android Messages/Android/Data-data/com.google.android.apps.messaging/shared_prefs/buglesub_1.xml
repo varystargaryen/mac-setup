@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <boolean name="buglesub_sms_encoding" value="false" />
-    <string name="buglesub_mms_phone_number"></string>
-    <boolean name="buglesub_auto_retrieve_mms" value="true" />
-</map>
